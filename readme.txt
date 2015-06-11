@@ -1,4 +1,5 @@
 
+
 branch is a quick 
 
 branch file test
@@ -14,3 +15,6 @@ git 1
 git 2 
 
 git 3
+
+Switched to a new branch 'feature1'
+
